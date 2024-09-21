@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sagor</h1>
-<h1>I am Fulstack Developer</h1>h1>
+<h1>I am Fulstack Developer</h1>
 <h3 align="center">I possess a deep understanding of the inner workings of web and software development, and my proficiency in these technical fields has equipped me with the necessary skills to create top-notch digital solutions. My passion for technology and technical expertise has enabled me to solve complex problems effectively. I am dedicated to staying up-to-date with the latest technology and software development trends and always willing to explore new solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadsagor&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsagor" /> </p>
